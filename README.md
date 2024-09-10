@@ -20,6 +20,7 @@ O site fornece o download de dois formatos de arquivo, o .zip ou o .tar.gz
 ### Instalação do Wordpress:
 Após a extração do conteúdo compactado, entre em: wordpress/wp-admin/
 Dentro dessa pasta, execute o oarquivo install.php pelo navegador e o processo de instalação irá começar.
+##### Obs: Para executar esse arquivo pelo navegador, você vai precisar iniciar um servidor web como o Apache, Nginx ou algum similar, com o php instalado.
 
 ## Usando a ferramenta localwp:
 Primeiro, acesse o [site localwp.com](https://localwp.com),
