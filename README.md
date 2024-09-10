@@ -10,15 +10,15 @@ Essa versão é paga, pois além de permitir usar o wordpress para a criação d
 
 # Download e instalação do WordPress:
 Nesse caso, você tem duas opções, pode usar a versão oficial disponibilizada no site, ou baixar uma ferramenta para facilitar a gestão projeto, nesse tutorial iremos abordar as duas opções.
-## Para usar localmente o WordPress
-### Usando os arquivos disponibilizados no site oficial:
+
+## Usando os arquivos disponibilizados no site oficial:
 O site fornece o download de dois formatos de arquivo, o .zip ou o .tar.gz
 ##### **No windows**, é recomendável baixar a versão .zip, e extrair normalmente usando o winrar.
 ##### **No Linux**, você pode baixar qualquer uma das versões.
  - Para extrair o .zip você pode usar um gerenciador de arquivos compactados, ou usar o comando: `unzip nomedoprograma.zip`
  - Para extrair o .tar.gz você pode usar o comando: `tar -xzvf arquivo.tar.gz`
 
-### Usando a ferramenta localwp:
+## Usando a ferramenta localwp:
 Primeiro, acesse o [site localwp.com](https://localwp.com),
 Clique na opção DOWNLOAD, isso irá abrir uma nova janela, clique em "please choose your plataform"
 Até a data desse tutorial, existem 5 opções disponíveis para realizar o download, são elas:
