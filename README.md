@@ -1,6 +1,6 @@
 # Introdução ao WordPress
 ## O que é o WordPress?
-O WordPress é um sistema de gerenciamento de conteúdo de código aberto, ele é usado papra a criação de sites e blogs e é muito popular devido á facilidade do seu uso e a sua vasta gama de recursos, permitindo criar um site completo sem precisar usar nenhum código.
+O WordPress é um sistema de gerenciamento de conteúdo de código aberto, ele é usado papra a criação de sites e blogs e é muito popular devido á facilidade do seu uso e a sua vasta gama de recursos, permitindo criar um site completo sem precisar usar nenhum código através de uma interface amigável.
 
 # Como Baixar o WordPress
 Primeiro, acesse o [site localwp.com](https://localwp.com)
