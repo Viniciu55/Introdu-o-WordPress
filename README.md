@@ -16,7 +16,10 @@ Após selecionar a opção que deseja, irão abrir caixas de texto, preencha-os 
 Depois de preenchidas essas informações, o download do arquivo será feito.
 
 ## Instalação no Windows
-Para Instalar o wordpress no windows
+Ao fazer o download, um arquivo .exe será baixado no seu computador, quando o download terminar, basta executar esse arquivo.
+Será aberta a janela de instalação, primeiro perguntando se você deseja instalar apenas no seu usuário ou para todos os existentes, escolha e aperte próximo.
+Aparecerá uma segunda perguntando se deseja alterar o local de instalação ou manter o mesmo, basta pressionar "Instalar" e o probrama será instalado.
+Após isso, o programa já estará instalado.
 
 ## Instalação em distros Linux baseadas em RedHat
 
@@ -34,4 +37,7 @@ Pacote libnss3-tools não está instalado.
 Basta digitar:
 `sudo apt-get install libnss3-tools` (com o nome do respectivo pacote no lugar de libnss3-tools)
 E tentar executar novamente a instalação.
-Após isso, o programa já está instalado, e pode ser aberto através do atalho nos aplicativos, ou através do comando `local` no seu terminal.
+Após isso, o programa já está instalado, e pode ser aberto através do atalho nos aplicativos, ou através do comando `/usr/bin/local` no seu terminal.
+
+# Após a instalação 
+Ao executar o programa pela primeira vez, ele irá pedir para que você aceite os termos de serviço, e depois entre usando uma conta,a partira daí, a aplicação já irá funcionar.
