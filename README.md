@@ -2,9 +2,9 @@
 ## O que é o WordPress?
 O WordPress é um sistema de gerenciamento de conteúdo de código aberto, ele é usado papra a criação de sites e blogs e é muito popular devido á facilidade do seu uso e a sua vasta gama de recursos, permitindo criar um site completo sem precisar usar nenhum código através de uma interface amigável.
 
-# Como Baixar o WordPress
+# Como Baixar o WordPress:
  ## Para usar localmente o WordPress
-É recomendável usar agluma ferramenta paraa gestão do projeto, nesse tutorial, usaremos uma chamada LocalWP.
+É recomendável usar alguma ferramenta para  a gestão do projeto, nesse tutorial, usaremos uma chamada LocalWP.
 ### Para baixar a ferramenta localwp:
 Primeiro, acesse o [site localwp.com](https://localwp.com),
 Clique na opção DOWNLOAD, isso irá abrir uma nova janela, clique em "please choose your plataform"
