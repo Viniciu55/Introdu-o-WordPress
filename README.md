@@ -9,8 +9,8 @@ Essa é a versão é totalmente grátis, e te permite criar o site, porém não 
 Essa versão é paga, pois além de permitir usar o wordpress para a criação do seu site, também fornece os serviços de hospedagem e domínio, porém, essa versão é paga.
 
 # Download e instalação do WordPress:
- ## Para usar localmente o WordPress
-É recomendável usar alguma ferramenta para  a gestão do projeto, nesse tutorial, usaremos uma chamada LocalWP.
+Nesse caso, você tem duas opções, pode usar a versão oficial disponibilizada no site, ou baixar uma ferramenta para facilitar a gestão projeto, nesse tutorial iremos abordar as duas opções.
+## Para usar localmente o WordPress
 ### Para baixar a ferramenta localwp:
 Primeiro, acesse o [site localwp.com](https://localwp.com),
 Clique na opção DOWNLOAD, isso irá abrir uma nova janela, clique em "please choose your plataform"
