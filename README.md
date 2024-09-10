@@ -9,7 +9,7 @@ Essa é a versão é totalmente grátis, e te permite criar o site, porém não 
 Essa versão é paga, pois além de permitir usar o wordpress para a criação do seu site, também fornece os serviços de hospedagem e domínio, porém, essa versão é paga.
 
 # Download e instalação do WordPress:
-### Nesse caso, você tem duas opções, pode usar a [versão oficial](#Usando-os-arquivos-disponibilizados-no-site-oficial:) disponibilizada no site, ou baixar uma [ferramenta](#Usando-a-ferramenta-localwp:) para facilitar a gestão projeto, nesse tutorial iremos abordar as duas opções.
+### Nesse caso, você tem duas opções, pode usar a [versão oficial](#Usando-os-arquivos-disponibilizados-no-site-oficial:) disponibilizada no site, ou baixar uma [ferramenta](#Usando-a-ferramenta-localwp) para facilitar a gestão projeto, nesse tutorial iremos abordar as duas opções.
 
 ## Usando os arquivos disponibilizados no site oficial:
 O site fornece o download de dois formatos de arquivo, o .zip ou o .tar.gz
