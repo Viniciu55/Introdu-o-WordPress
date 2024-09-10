@@ -21,4 +21,14 @@ Para Instalar o wordpress no windows
 ## Instalação em distros Linux baseadas em RedHat
 
 ## Instalação em distros Linux baseeadas em ubuntu
-Ao fazer o download, um arquivo .deb será baixado no seu computador, abra o terminal no mesmo diretório onde o arquivo se encontra, e no terminal use o seguinte comando: `sudo dpkg -i local-9.x.x-linux.deb`
+Ao fazer o download, um arquivo .deb será baixado no seu computador, algumas distros baseadas em debian te permitem executar esse arquivo .deb, e abri-lo diretamente  na loja de apliicativos, porém não são todas.
+Caso a sua não permita, abra o terminal no mesmo diretório onde o arquivo se encontra, e no terminal use o seguinte comando: `sudo dpkg -i local-9.x.x-linux.deb`
+(obs: coloque o nome do arquivo que foi baixado, no lugar de X.X será o número da versão do programa que você baixou, você pode facilitar isso escrevendo apenas o início do nome e apertando a tecla TAB.)
+Após isso, o gerenciador de pacotes .deb irá realizar a instalação do programa baixado.
+obs: caso o seu terminal retorne algum erro como:
+
+```
+local depende de libnss3-tools; porém:
+Pacote libnss3-tools não está instalado.
+```
+Basta digitar
