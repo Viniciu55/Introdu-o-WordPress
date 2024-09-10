@@ -45,4 +45,5 @@ E tentar executar novamente a instalação.
 Após isso, o programa já está instalado, e pode ser aberto através do atalho nos aplicativos, ou através do comando `/usr/bin/local` no seu terminal.
 
 # Após a instalação 
-Ao executar o programa pela primeira vez, ele irá pedir para que você aceite os termos de serviço, e depois entre usando uma conta,a partira daí, a aplicação já irá funcionar.
+Ao executar o programa pela primeira vez, ele irá pedir para que você aceite os termos de serviço, e depois entrar usando uma conta.
+A partira daí, o programa já está funcionando.
