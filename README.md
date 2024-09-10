@@ -2,7 +2,7 @@
 ## O que é o WordPress?
 O WordPress é um sistema de gerenciamento de conteúdo de código aberto, ele é usado papra a criação de sites e blogs e é muito popular devido á facilidade do seu uso e a sua vasta gama de recursos, permitindo criar um site completo sem precisar usar nenhum código através de uma interface amigável.
 ### Versões
-o wordpress possui verrsões diferentes, existe o wordpress.com e o wordpress.org
+o wordpress possui verrsões diferentes, existe o wordpress.org e o wordpress.com
 #### [O wordpress.org](https://wordpress.org/):
 Essa é a versão é totalmente grátis, e te permite criar o site, porém não garante o domínio e nem a hospedagem, ou seja, você pode criar o site, mas ainda precisará de um serviço de hospedagem e de um domínio para poder colocar o site no ar.
 ####  [O wordpress.com](https://wordpress.com/pt-br/):
