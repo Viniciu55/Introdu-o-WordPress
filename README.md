@@ -1,8 +1,14 @@
 # Introdução ao WordPress
 ## O que é o WordPress?
 O WordPress é um sistema de gerenciamento de conteúdo de código aberto, ele é usado papra a criação de sites e blogs e é muito popular devido á facilidade do seu uso e a sua vasta gama de recursos, permitindo criar um site completo sem precisar usar nenhum código através de uma interface amigável.
+#### Versões
+o wordpress possui verrsões diferentes, existe o wordpress.com e o wordpress.org
+##### O wordpress.org:
+Essa é a versão é totalmente grátis, e te permite criar o site, porém não garante o domínio e nem a hospedagem, ou seja, você pode criar o site, mas ainda precisará de um serviço de hospedagem e de um domínio para poder colocar o site no ar.
+#####  O wordpress.com:
+Essa versão é paga, pois além de permitir usar o wordpress para a criação do seu site, também fornece os serviços de hospedagem e domínio, porém, essa versão é paga.
 
-# Como Baixar o WordPress:
+# Download e instalação do WordPress:
  ## Para usar localmente o WordPress
 É recomendável usar alguma ferramenta para  a gestão do projeto, nesse tutorial, usaremos uma chamada LocalWP.
 ### Para baixar a ferramenta localwp:
