@@ -8,8 +8,8 @@ Até a data desse tutorial, existem 5 opções disponíveis para realizar o down
 
 1. [Mac intel](#não suportado nesse tutorial)
 2. [Mac Apple Silicon](#não suportado nesse tutorial)
-3. [Windows](#Instalação no Windows)
-4. [Linux RPM based- (fedora, Red Hat Linux, CentOS)](#Instalação em distros Linux baseadas em RedHat)
+3. [Windows](#Instalação-no-Windows)
+4. [Linux RPM based- (fedora, Red Hat Linux, CentOS)](#Instalação-em-distros-Linux-baseadas-em-RedHat)
 5. [Linux - Debian based (ubuntu, etc)](#Instalação em distros Linux baseeadas em ubuntu)
 
 Após selecionar a opção que deseja, irão abrir caixas de texto, preencha-os com primeiro nome, segundo nome, organização para qual você trabalha e e-mail de trabalho.
