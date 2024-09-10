@@ -17,6 +17,9 @@ O site fornece o download de dois formatos de arquivo, o .zip ou o .tar.gz
 ##### **No Linux**, você pode baixar qualquer uma das versões.
  - Para extrair o .zip você pode usar um gerenciador de arquivos compactados, ou usar o comando: `unzip nomedoprograma.zip`
  - Para extrair o .tar.gz você pode usar o comando: `tar -xzvf arquivo.tar.gz`
+### Instalação do Wordpress:
+Após a extração do conteúdo compactado, entre em: wordpress/wp-admin/
+Dentro dessa pasta, execute o oarquivo install.php pelo navegador e o processo de instalação irá começar.
 
 ## Usando a ferramenta localwp:
 Primeiro, acesse o [site localwp.com](https://localwp.com),
