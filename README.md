@@ -6,7 +6,7 @@ o wordpress possui verrsões diferentes, existe o wordpress.org e o wordpress.co
 #### [O wordpress.org](https://wordpress.org/):
 Essa é a versão é totalmente grátis, e te permite criar o site, porém não garante o domínio e nem a hospedagem, ou seja, você pode criar o site, mas ainda precisará de um serviço de hospedagem e de um domínio para poder colocar o site no ar.
 ####  [O wordpress.com](https://wordpress.com/pt-br/):
-Essa versão é paga, pois além de permitir usar o wordpress para a criação do seu site, também fornece os serviços de hospedagem e domínio, porém, essa versão é paga.
+Essa versão é paga, pois além de permitir usar o wordpress para a criação do seu site, também fornece os serviços de hospedagem e domínio.
 
 # Download e instalação do WordPress:
 ### Nesse caso, você tem duas opções, pode usar a [versão oficial](#Usando-os-arquivos-disponibilizados-no-site-oficial) disponibilizada no site, ou baixar uma [ferramenta](#Usando-a-ferramenta-localwp) para facilitar a gestão projeto, nesse tutorial iremos abordar as duas opções.
