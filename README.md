@@ -43,7 +43,10 @@ Aparecerá uma segunda perguntando se deseja alterar o local de instalação ou 
 Após isso, o programa já estará instalado.
 
 ## Instalação em distros Linux baseadas em RedHat
-
+Ao selecionar essa opção, será iniciado o download de um arquivo .rpm, abra o terminal e navegue até a pasta aonde o arquivo está baixado, para instalá-lo você possui 3 opções: yum, dnf ou rpm
+1. Caso o seu sistema seja mais antigo, user o yum: `sudo yum install local-x-linux.rpm`
+2. Usando dnf: `sudo dnf install local-X-linux.rpm`
+3. Usando rpm: `sudo rpm -i local-X-linux.rpm`
 ## Instalação em distros Linux baseeadas em ubuntu
 Ao fazer o download, um arquivo .deb será baixado no seu computador.
 
