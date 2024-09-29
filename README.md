@@ -47,6 +47,8 @@ Ao selecionar essa opção, será iniciado o download de um arquivo .rpm, abra o
 1. Caso o seu sistema seja mais antigo, user o yum: `sudo yum install local-x-linux.rpm`
 2. Usando dnf: `sudo dnf install local-X-linux.rpm`
 3. Usando rpm: `sudo rpm -i local-X-linux.rpm`
+###### obs: o dnv(ou yum, caso esteja na versão antiga) resolve as dependências automaticamente, porém o rpm não, portanto caso você vá usar o rpm e o pacote tiver dependências não satisfeitas, será necessário intalar essas dependências manualmente.
+Após isso o programa será instalado, e basta apenas executá-lo.
 ## Instalação em distros Linux baseeadas em ubuntu
 Ao fazer o download, um arquivo .deb será baixado no seu computador.
 
